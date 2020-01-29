@@ -1,0 +1,12 @@
+p {
+    font-family: Bangers, Times new roman , sans-serif;
+    font-size: medium;
+} 
+
+form {
+    width: 40%;
+    margin: 10px;
+    border: 2px solid rgb(8, 25, 182);
+    border-radius: 8px;
+    padding: 10px;
+}
